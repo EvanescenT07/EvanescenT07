@@ -17,9 +17,9 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanescenT07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 10px; margin-left: 10px; margin-bottom: 10px" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanescenT07&theme=transparent&hide_border=false" height="150" style="margin-right: 10px; margin-left: 10px; margin-bottom:10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanescenT07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" style="margin-top : 10px">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanescenT07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 50px; margin-left: 10px; margin-bottom: 25px" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanescenT07&theme=transparent&hide_border=false" height="150" style="margin-right: 10px; margin-left: 50px; margin-bottom: 25px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanescenT07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" style="margin-top : 25px">
 </div>
 
 # ✍️ Quote
