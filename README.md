@@ -1,8 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=EvanescenT07&icon=5&color=1)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-
-## Hi👋, I'm Zulfikar Ahmad Aliansyah
+# Hi👋, I'm Zulfikar Ahmad Aliansyah
 
 I'm currently pursuing a degree in Informatics with a concentration in Artificial Intelligence at President University. I'm passionate about building innovative solutions using AI, machine learning, and web development. I'm constantly exploring new technologies and frameworks to expand my skill set.<br><br>
 
