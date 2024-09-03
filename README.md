@@ -22,7 +22,7 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/NextJS-%000000.svg?style=flat&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000.svg?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.JS-%236DA55F.svg?style=flat&logo=node.js&logoColor=white)
