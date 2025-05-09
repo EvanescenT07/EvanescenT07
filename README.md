@@ -15,7 +15,7 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
   </a>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vstliaumdpumwdadfsrrwvc10&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vstliaumdpumwdadfsrrwvc10&count=3)
 
 # 🌐 Socials:
 
