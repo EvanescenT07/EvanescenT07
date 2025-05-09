@@ -15,6 +15,10 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
   </a>
 </div>
 
+<div align="center">
+  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=vstliaumdpumwdadfsrrwvc10&count={3})]
+</div>
+
 # 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2n8Bnx3Gm8)
@@ -29,6 +33,7 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
 ### 🤖 AI/ML:
 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat&logo=python&logoColor=%23ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2300396F.svg?style=flat&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -51,6 +56,7 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### 🎨 Design
