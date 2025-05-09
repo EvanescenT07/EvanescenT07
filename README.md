@@ -15,7 +15,13 @@ I'm currently pursuing a degree in Informatics with a concentration in Artificia
   </a>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vstliaumdpumwdadfsrrwvc10&count=3)
+<div align="center">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=vstliaumdpumwdadfsrrwvc10&count=3" 
+    alt="Spotify Recently Played"
+    style="padding-top: 20px;"
+  />
+</div>
 
 # 🌐 Socials:
 
