@@ -43,7 +43,7 @@ I am a dedicated problem-solver, passionate about continuous learning and contri
 ### 🤖 AI/ML:
 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat&logo=python&logoColor=%23ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2300396F.svg?style=flat&logo=opencv&logoColor=white)
