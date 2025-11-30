@@ -1,12 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=EvanescenT07&icon=5&color=1)](https://visitcount.itsvg.in)
-
-#
-
 # Hi👋, I'm Zulfikar Ahmad Aliansyah
 
 A recent Informatics graduate from President University with a specialization in Artificial Intelligence. Through internships at PT Bank SMBC Indonesia and PT Berlian Sistem Informasi, I gained hands-on experience in the full software development lifecycle within an Agile environment. My skills in software development, web development, and user-friendly design were further strengthened by my leadership role as the former Vice Head of the Design Division for my university's major association.
 
-Currently, I am a System Development Intern focusing on mobile development using Flutter, where I contribute to building scalable, efficient, and user-centric mobile applications. This role enhances my technical capabilities while deepening my understanding of modern development practices and cross-functional collaboration.
+Currently, I am a System Development Intern at PT AXA Mandiri Financial Services focusing on mobile development using Flutter, where I contribute to building scalable, efficient, and user-centric mobile applications. This role enhances my technical capabilities while deepening my understanding of modern development practices and cross-functional collaboration.
 
 I am a dedicated problem-solver, passionate about continuous learning and contributing to high-quality, impactful projects.<br>
 
