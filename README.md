@@ -4,7 +4,7 @@ A recent Informatics graduate from President University with a specialization in
 
 Currently, I am a System Development Intern at PT AXA Mandiri Financial Services focusing on mobile development using Flutter, where I contribute to building scalable, efficient, and user-centric mobile applications. This role enhances my technical capabilities while deepening my understanding of modern development practices and cross-functional collaboration.
 
-I am a dedicated problem-solver, passionate about continuous learning and contributing to high-quality, impactful projects.<br>
+I am a dedicated problem-solver, passionate about continuous learning and contributing to high-quality, impactful projects.<br><br>
 
 <div align="center">
   <a href="https://zaaliansyah.site">
@@ -15,7 +15,7 @@ I am a dedicated problem-solver, passionate about continuous learning and contri
   </a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img 
